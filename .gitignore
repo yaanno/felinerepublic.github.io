@@ -1,0 +1,107 @@
+# 🐱 Feline Republic's Sacred .gitignore
+# Files banished from our utopian society
+
+# System Files (Unwelcome to the Cat Society)
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.log
+
+# Dependencies & Build
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# Dog-Related Files (STRICTLY FORBIDDEN)
+*.bark
+*.woof
+*.dog
+*.poodle
+*.beagle
+*.dachshund
+*doggo*
+
+# Vacuum Cleaners & Other Terrors
+*.vacuum
+*.hoover
+*.roomba
+*vacuum*
+
+# Baths & Water (A Cat's Greatest Enemy)
+*.bath
+*.shower
+*.wet
+*water*
+*splash*
+
+# Spray Bottles (Instruments of Oppression)
+*.spray
+*spray-bottle*
+
+# Vet Visits (We Don't Speak of These)
+*.vet
+*.appointment
+*.needle
+*medicine*
+
+# Bell Collars (Freedom Restrictions)
+*.bell
+*.jingle
+*collar*
+
+# Batches (Unwelcome DOS Files)
+*.bat
+*.cmd
+*.com
+*batch*
+
+# Fog (Confuses the Whiskers)
+*.fog
+*.mist
+*foggy*
+*haze*
+
+# Laser Pointers Without Approval
+*.unauthorized-laser
+*.random-dot
+*stolen-red-dot*
+
+# Human Schedules (We Make Our Own)
+*calendar*
+*schedule*
+*agenda*
+
+# Exercise Equipment (Ew)
+*.treadmill
+*.weights
+*exercise*
+*gym*
+
+# Anything Related to Garden Hoses
+*.garden-hose
+*.hose
+*watering-can*
+
+# Vacuum Bags (Triple Curse)
+*.vacuum-bag
+*dusty*
+
+# Miscellaneous Banned Items
+*.lint-roller
+*.nail-clippers
+*.hairbrush
+*.comb
+
+# The Great War
+*vacuum-cleaner*
+*smoke-detector*
+*alarm*
+*loud-noises*
